@@ -1,7 +1,7 @@
 {
   "name": "better-transmission-tabscontainer",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "npx vite",
@@ -9,7 +9,8 @@
     "build:watch": "npx vite build --watch",
     "preview": "npx vite preview",
     "eslint": "npx eslint --ext .js src/",
-    "eslint:fix": "npm run eslint -- --fix"
+    "eslint:fix": "npm run eslint -- --fix",
+    "test": "echo: not implemented yet"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
