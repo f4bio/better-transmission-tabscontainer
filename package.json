@@ -16,10 +16,13 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-n": "^16.4.0",
+    "eslint-plugin-n": "^16.5.0",
     "eslint-plugin-promise": "^6.1.1",
     "prettier": "3.1.1",
     "vite": "^4.4.8",
-    "vite-plugin-monkey": "^3.4.0"
+    "vite-plugin-monkey": "^3.5.1"
+  },
+  "dependencies": {
+    "@violentmonkey/dom": "^2.1.5"
   }
 }
