@@ -20,7 +20,7 @@
     "eslint-plugin-n": "^16.5.0",
     "eslint-plugin-promise": "^6.1.1",
     "prettier": "3.1.1",
-    "vite": "^4.4.8",
+    "vite": "^4.5.2",
     "vite-plugin-monkey": "^3.5.1"
   },
   "dependencies": {
