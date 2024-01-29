@@ -13,7 +13,7 @@ export default defineConfig({
         license: "MIT",
         description:
           "A userscript to make Transmission-Web's TabsContainer better",
-        icon: "https://raw.githubusercontent.com/f4bio/better-transmission-tabscontainer/develop/src/assets/icon.png",
+        icon: "https://github.com/f4bio/better-transmission-tabscontainer/blob/88b4364f06ec3f18ae00c8d3963b9cf6ce01e1bb/src/assets/icon.png",
         namespace: "npm/vite-plugin-monkey",
         match: ["*://*/transmission/web/"],
         grant: ["none"],
