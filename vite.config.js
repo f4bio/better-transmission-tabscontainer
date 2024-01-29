@@ -8,12 +8,12 @@ export default defineConfig({
       entry: "src/main.js",
       userscript: {
         name: "Better Transmission TabsContainer",
-        author: "Fabio Tea <iam@f4b.io>",
+        author: "Fabio Tea <iam@f4b.io> (iam.f4b.io)",
         locale: ["en"],
         license: "MIT",
         description:
-          "A userscript to make Transmission Web's TabsContainer better",
-        icon: "https://vitejs.dev/logo.svg",
+          "A userscript to make Transmission-Web's TabsContainer better",
+        icon: "https://raw.githubusercontent.com/f4bio/better-transmission-tabscontainer/develop/src/assets/icon.png",
         namespace: "npm/vite-plugin-monkey",
         match: ["*://*/transmission/web/"],
         grant: ["none"],
